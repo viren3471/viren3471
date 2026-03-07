@@ -2,7 +2,7 @@
 
 💻 Exploring Full-Stack Development | Passionate about AI-powered solutions
 
-🎓 5th-semester Information Technology student
+🎓 6th-semester Information Technology student
 🔍 Currently improving problem-solving skills and working on building end-to-end projects
 
 🛠️ Tech Knowledge
