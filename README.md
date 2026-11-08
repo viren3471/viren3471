@@ -1,4 +1,4 @@
-👋 Hii, I'm Viren Prajapati
+Hello, Myself Viren Prajapati.
 
 💻 Exploring Full-Stack Development | Passionate about AI-powered solutions
 
